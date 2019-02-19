@@ -1,7 +1,6 @@
-<h1>Setup-Developer-Linux<h1>
-Setup do meu ambiente de desenvolvimento
+<h1>Setup-Developer-Linux</h1>
 
-1) Install the VSCode
+<h2>1) Install the VSCode</h2>
 
 curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
 
