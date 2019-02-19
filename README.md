@@ -80,5 +80,17 @@ Add these configurations:
 "prettier.eslintIntegration": true
 
 
-<h2>3) Configuring terminal</h2>
+<h2>3) Adding Google Chrome Extensions</h2>
 
+<h3> Install these Extensions</h3>
+
+react developer tools
+
+dracula devtools theme
+
+<h3> Configuring Dracula devtools theme</h3>
+
+Paste in Google Chrome:
+chrome://flags/#enable-devtools-experiments
+
+Enable Developer Tools experiments
