@@ -94,3 +94,13 @@ Paste in Google Chrome:
 chrome://flags/#enable-devtools-experiments
 
 Enable Developer Tools experiments
+
+Relaunch
+
+Press F12, Click Elements
+
+Click three points menu (...), Settings 
+
+Select Experiments and Allow custom UI themes
+
+
