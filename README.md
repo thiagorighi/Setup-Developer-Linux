@@ -136,3 +136,14 @@ chmod +x DevDocs-0.6.9-x86_64.AppImage
 
 Enable docs for React, React Native, Node. js 10 and JavaScript
 
+
+<h2>6) Install Node.sj </h2>
+
+
+<h3> Node.js v10.x </h3>
+
+curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+
+sudo apt-get install -y nodejs
+
+
