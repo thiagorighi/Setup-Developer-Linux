@@ -80,5 +80,5 @@ Add these configurations:
 "prettier.eslintIntegration": true
 
 
-<h3>Configuring terminal</h3>
+<h2>3) Configuring terminal</h2>
 
