@@ -16,3 +16,9 @@ sudo apt-get install code
 
 
 <h2>2) Configuring Code<h/2>
+
+<h3>Install the extension Dracula Official Theme</h3>
+
+Click in File, Preferences, Color Theme
+
+Digit Dracula and press Enter
