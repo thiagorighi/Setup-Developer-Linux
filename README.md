@@ -36,25 +36,25 @@ Add these configurations:
 
 "editor.lineHeight": 24,
 
-  "editor.rulers": [80, 120],
+"editor.rulers": [80, 120],
   
-  "editor.tabSize": 2,
+"editor.tabSize": 2,
   
-  "editor.renderLineHighlight": "gutter",
+"editor.renderLineHighlight": "gutter",
   
-  "terminal.integrated.fontSize": 14,
+"terminal.integrated.fontSize": 14,
   
-  "emmet.syntaxProfiles": {
-    "javascript": "jsx"
-  },
+"emmet.syntaxProfiles": {
+  "javascript": "jsx"
+},
   
-  "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
-  },
+"emmet.includeLanguages": {
+  "javascript": "javascriptreact"
+},
   
-  "javascript.updateImportsOnFileMove.enabled": "never",
+"javascript.updateImportsOnFileMove.enabled": "never",
   
-  "breadcrumbs.enabled": true,
+"breadcrumbs.enabled": true,
   
-  "editor.parameterHints.enabled": false  
+"editor.parameterHints.enabled": false  
 }
