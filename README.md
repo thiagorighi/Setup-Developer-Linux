@@ -26,6 +26,23 @@ Click in File, Preferences, Color Theme
 Digit Dracula and press Enter
 
 
+<h3>Install Extensions</h3>
+
+vscode-icons
+
+Color Highlight
+
+EditorConfig for VS Code
+
+ESLint
+
+Prettier - Code formatter
+
+Rocketseat ReactJS
+
+Rocketseat React Native
+
+
 <h3>Edit the Open Settings (JSON)</h3>
 
 Press ctrl+shift+p
@@ -59,9 +76,9 @@ Add these configurations:
 "breadcrumbs.enabled": true,
   
 "editor.parameterHints.enabled": false  
-}
+
+"prettier.eslintIntegration": true
 
 
-<h3>Install the vscode-icons</h3>
+<h3>Configuring terminal</h3>
 
-Install the extension vscode-icons
