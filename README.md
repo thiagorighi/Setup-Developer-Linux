@@ -17,7 +17,9 @@ sudo apt-get install code
 
 <h2>2) Configuring Code<h/2>
 
-<h3>Install the extension Dracula Official Theme</h3>
+<h3>Install Dracula Official Theme</h3>
+
+Install the extension Dracula
 
 Click in File, Preferences, Color Theme
 
@@ -61,3 +63,5 @@ Add these configurations:
 
 
 <h3>Install the vscode-icons</h3>
+
+Install the extension vscode-icons
