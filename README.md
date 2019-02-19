@@ -58,3 +58,6 @@ Add these configurations:
   
 "editor.parameterHints.enabled": false  
 }
+
+
+<h3>Install the vscode-icons</h3>
