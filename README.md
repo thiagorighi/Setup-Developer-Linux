@@ -115,7 +115,7 @@ Click on the button Customize React DevTools
 Choose the theme Dracula
 
 
-<h2> Install Insomnia</h2>
+<h2>4) Install Insomnia</h2>
 
 echo "deb https://dl.bintray.com/getinsomnia/Insomnia /" \ | sudo tee -a /etc/apt/sources.list.d/insomnia.list
     
