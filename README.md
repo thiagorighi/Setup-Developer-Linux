@@ -103,4 +103,13 @@ Click three points menu (...), Settings
 
 Select Experiments and Allow custom UI themes
 
+Enter in Rocketseat site
+www.rocketseat.com.br
 
+Inspect
+
+Select React Menu (Elements, Console, .... React)
+
+Click on the button Customize React DevTools
+
+Choose the theme Dracula
