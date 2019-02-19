@@ -127,7 +127,12 @@ sudo apt-get install insomnia
 
 <h2>5) Install DevDocs App</h2>
 
+Download the DevDocs App
 https://devdocs.egoist.moe/
+
+chmod +x DevDocs-0.6.9-x86_64.AppImage 
+
+./DevDocs-0.6.9-x86_64.AppImage
 
 Enable docs for React, React Native, Node. js 10 and JavaScript
 
