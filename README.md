@@ -14,3 +14,5 @@ sudo apt-get update
 
 sudo apt-get install code
 
+
+<h2>2) Configuring Code<h/2>
