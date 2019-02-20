@@ -173,7 +173,7 @@ Add in package.json
 yarn add nunjucks
 
 
-
+Install the extension Nunjucks
 
 
 
