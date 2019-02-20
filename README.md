@@ -155,13 +155,20 @@ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/source
 
 sudo apt-get update && sudo apt-get install yarn
 
+
+<h2>8) Starting the project</h2>
+
 To start yarn, digite from project folder:
 yarn init -y
 
-
-<h2>8) Install ExpressJS</h2>
-
 yarn add express
+
+yarn add nodemon -D
+
+Add in package.json
+"scripts": {
+    "start": "nodemon index.js"
+  },
 
 
 
