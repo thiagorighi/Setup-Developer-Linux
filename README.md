@@ -186,4 +186,8 @@ yarn eslint --init
 ? What format do you want your config file to be in? JSON
 ? Would you like to install them now with npm? Yes
 
+Delete package-lock.json
+
+run yarn
+
 
